@@ -1,1 +1,1 @@
-# typeexplorer
+# type explorer
